@@ -1,0 +1,12 @@
+git add .
+git commit -m "your message"
+git push
+
+
+
+
+git remote set-url origin https://NitishChauhan1@github.com/NitishChauhan1/Cse-ds.git
+
+
+
+git push -u origin main
